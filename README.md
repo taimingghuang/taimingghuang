@@ -26,12 +26,14 @@ I am a results-driven Front-end Developer with a **B.B.A. in International Busin
 
 ### 📂 Featured Projects
 
-#### 🏆 [Moment — Photography Studio Website](https://taimingghuang.github.io/moment/index.html)
+#### 🏆 [Moment]
 *Winner of TibaMe Front-end Bootcamp "Best Website Award"*
 - Independently developed a high-fidelity brand website from UI design to deployment.
 - **Tech:** HTML5, CSS3, JavaScript, Figma.
+- **Links:** [Live Demo](https://taimingghuang.github.io/moment/index.html) | [GitHub](https://github.com/taimingghuang/moment)
 
-#### 🌍 [Formosoul — Cultural Guide Platform](https://github.com/taimingghuang/Formosoul)
+#### 🌍 [Formosoul — Taiwan Cultural Guide Platform]
 *Collaborative Team Project*
 - Implemented complex interactive features and game-like animations using GSAP.
 - **Tech:** Vue 3, Vite, GSAP, Leaflet.js, PHP/MySQL.
+- **Links:** [Live Demo](https://tibamef2e.com/tjd103/home) | [GitHub](https://github.com/taimingghuang/Formosoul)
