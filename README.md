@@ -7,7 +7,7 @@ I am a results-driven Front-end Developer with a **B.B.A. in International Busin
 
 ---
 
-### 🛠️ Technical Expertise & Languages
+### 🛠️ Technical Experience & Languages
 
 **Front-end Development**
 - **Framework:** Vue 3 (Composition API), Pinia, Vue Router
