@@ -1,6 +1,6 @@
 # Hi, I am Tai-ming Huang 👋
 
-### 🚀 Front-end Developer | Chinese/English
+### 🚀 Front-end Developer | Mandarin / English
 I am a results-driven Front-end Developer with a **B.B.A. in International Business** from Ming Chuan University. I recently completed an **intensive 500-hour engineering program** at TibaMe, where I focused on building scalable, interactive web applications. 
 
 **I hold a TOEIC Gold Certificate**, demonstrating my proficiency in professional English and my ability to seamlessly navigate technical documentation and international collaboration.
